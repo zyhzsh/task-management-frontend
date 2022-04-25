@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://zyhzsh.github.oi/task-management-frontend/static/css/main.221589fe.chunk.css",
-    "main.js": "https://zyhzsh.github.oi/task-management-frontend/static/js/main.e14a08eb.chunk.js",
-    "main.js.map": "https://zyhzsh.github.oi/task-management-frontend/static/js/main.e14a08eb.chunk.js.map",
-    "runtime~main.js": "https://zyhzsh.github.oi/task-management-frontend/static/js/runtime~main.b0287a92.js",
-    "runtime~main.js.map": "https://zyhzsh.github.oi/task-management-frontend/static/js/runtime~main.b0287a92.js.map",
-    "static/js/2.b7a7c974.chunk.js": "https://zyhzsh.github.oi/task-management-frontend/static/js/2.b7a7c974.chunk.js",
-    "static/js/2.b7a7c974.chunk.js.map": "https://zyhzsh.github.oi/task-management-frontend/static/js/2.b7a7c974.chunk.js.map",
-    "index.html": "https://zyhzsh.github.oi/task-management-frontend/index.html",
-    "precache-manifest.cbdbf22c5eba3ec3d7b15d4c8ad389e7.js": "https://zyhzsh.github.oi/task-management-frontend/precache-manifest.cbdbf22c5eba3ec3d7b15d4c8ad389e7.js",
-    "service-worker.js": "https://zyhzsh.github.oi/task-management-frontend/service-worker.js",
-    "static/css/main.221589fe.chunk.css.map": "https://zyhzsh.github.oi/task-management-frontend/static/css/main.221589fe.chunk.css.map"
+    "main.css": "https://zyhzsh.github.io/task-management-frontend/static/css/main.221589fe.chunk.css",
+    "main.js": "https://zyhzsh.github.io/task-management-frontend/static/js/main.78474db7.chunk.js",
+    "main.js.map": "https://zyhzsh.github.io/task-management-frontend/static/js/main.78474db7.chunk.js.map",
+    "runtime~main.js": "https://zyhzsh.github.io/task-management-frontend/static/js/runtime~main.48f7113a.js",
+    "runtime~main.js.map": "https://zyhzsh.github.io/task-management-frontend/static/js/runtime~main.48f7113a.js.map",
+    "static/js/2.f92eaca2.chunk.js": "https://zyhzsh.github.io/task-management-frontend/static/js/2.f92eaca2.chunk.js",
+    "static/js/2.f92eaca2.chunk.js.map": "https://zyhzsh.github.io/task-management-frontend/static/js/2.f92eaca2.chunk.js.map",
+    "index.html": "https://zyhzsh.github.io/task-management-frontend/index.html",
+    "precache-manifest.2121d0f1816b43e7fda2b8a366a2c793.js": "https://zyhzsh.github.io/task-management-frontend/precache-manifest.2121d0f1816b43e7fda2b8a366a2c793.js",
+    "service-worker.js": "https://zyhzsh.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.221589fe.chunk.css.map": "https://zyhzsh.github.io/task-management-frontend/static/css/main.221589fe.chunk.css.map"
   }
 }
